@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1467811103 source:c:\users\ragulan\desktop\car_game\car_game\main.cpp
+	<iostream>
+	<Windows.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<dos.h>
+
